@@ -6,7 +6,7 @@
               <div class="contact-block">
                 <form id="contactForm">
                   <?php
-                    echo do_shortcode( '[contact-form-7 id="288" title="Stack Contact"]');
+                    echo do_shortcode( '[contact-form-7 id="92" title="Contact form 1"]');
                   ?>
                 </form>
               </div>
