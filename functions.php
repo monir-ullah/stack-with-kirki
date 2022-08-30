@@ -6,7 +6,7 @@
    
 
    
-    // Good
+
 
     // This is for add theme support functionality 
     function stack_theme_support(){
